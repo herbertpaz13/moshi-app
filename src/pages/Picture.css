@@ -1,0 +1,35 @@
+
+#image {
+    width: 160px;
+    height: 160px; 
+}
+
+.principal {
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 105px;
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    background-color: #4ECDC4;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: .6s;
+}
+
+.principal a {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    text-decoration: none;
+    color: #fff;
+    font-size: 0.8em;
+}
+
+.material-icons temp{
+    height: 300px;
+    width: 200px;
+}

@@ -1,0 +1,7 @@
+#temp{
+        background-size: contain;
+        background-position: top;
+        background-repeat: no-repeat;
+        height: 100vh;
+    background-image: url("../assets/images/gma.png");
+}
